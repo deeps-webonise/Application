@@ -4,8 +4,8 @@
 public class test {
     public static void main(String args[])
     {
-        ICar carRef = new Car();
-        IMotorcycle motorCycleRef = new MotorCycle();
+        ICar carRef = new Ferrari();
+        IMotorcycle motorCycleRef = new pulsar();
 //        carRef.hasWheels();
 
     }
